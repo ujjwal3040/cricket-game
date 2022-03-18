@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cricket_game.dir/game-1[1].cpp.o CMakeFiles/cricket_game.dir/main[1].cpp.o CMakeFiles/cricket_game.dir/player-1[1].cpp.o CMakeFiles/cricket_game.dir/team-1[1].cpp.o -o cricket_game 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/game-1[1].cpp
+game-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/game-1[1].h
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/game-1[1].h
+iostream
+-
+cstdlib
+-
+ctime
+-
+limits
+-
+team-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/team-1[1].h
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/main[1].cpp
+game-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/game-1[1].h
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/player-1[1].cpp
+player-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/player-1[1].h
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/player-1[1].h
+string
+-
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/team-1[1].cpp
+team-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/team-1[1].h
+
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/team-1[1].h
+vector
+-
+player-1[1].h
+/Users/ujjwal/Downloads/Cricket-Game-master/cricket game/player-1[1].h
+
